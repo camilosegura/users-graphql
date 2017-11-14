@@ -1,11 +1,33 @@
 {
-    "users": [
-        { "id": "23", "firstName": "Camilo", "age": 34, "companyId": "1"},
-        { "id": "24", "firstName": "Andres", "age": 35, "companyId": "2"},
-        { "id": "25", "firstName": "Segura", "age": 33, "companyId": "2"}
-    ],
-    "companies": [
-        { "id": "1", "name": "Argesys", "description": "fail company"},
-        { "id": "2", "name": "Wuwei", "description": "Successfull!!"}
-    ]
+  "users": [
+    {
+      "id": "24",
+      "firstName": "Andres",
+      "age": 12,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Segura",
+      "age": 33,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Ramirez",
+      "age": 32,
+      "id": "ssbZvMX"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Argesys",
+      "description": "fail company"
+    },
+    {
+      "id": "2",
+      "name": "Wuwei",
+      "description": "Successfull!!"
+    }
+  ]
 }
